@@ -27,16 +27,4 @@ Sistema de pontuação
 Tabela de avaliação de resultados
 Formulário de feedback do usuário
 
----
-
-🎯 Objetivo do Projeto
-
-Praticar conceitos fundamentais do desenvolvimento front-end, incluindo:
-
-Estruturação semântica de páginas com HTML
-Estilização e organização de layout com CSS
-Manipulação do **DOM** com JavaScript
-Criação de formulários interativos
-
-Implementação de lógica de pontuação
-
+https://paulo93-dev.github.io/Quiz-Interativo/
